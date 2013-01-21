@@ -1,0 +1,4 @@
+Create dev site collection
+Add Napa devlopment app on site
+Create SP App solution in VS2013 - autohost
+build & deploy
